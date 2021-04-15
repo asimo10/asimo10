@@ -2,8 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on making websites
-- 🌱 I’m currently learning PHP
-- 💬 Ask me about HTML, CSS
-- 📫 How to reach me: ![mailto:asimo10dev@gmail.com](mailto:asimo10dev@gmail.com)
-- ⚡ Fun fact: Im a human being
+- 🌱 I’m currently learning Python
+- 💬 Ask me about HTML, CSS, JS, PHP, and Python
+- 📫 How to reach me: ![mailto:tahirmurata83@gmail.com](mailto:tahirmurata83@gmail.com)
