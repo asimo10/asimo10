@@ -1,7 +1,11 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Python
-- 💬 Ask me about HTML, CSS, JS, PHP, and Python
-- 📫 How to reach me: ![mailto:tahirmurata83@gmail.com](mailto:tahirmurata83@gmail.com)
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm Portaltree.<br> I'm a Web/Python Developer from Japan.<br><br>#html, #css, #js, #php, #python</samp>
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+</p>
