@@ -1,27 +1,33 @@
 <p align="center">
   <br>
-  <br>
-      Hello there. I'm Portaltree.
-      <br> 
-      I'm a Future Web / Python Developer from Japan.
-      <br><br>
-      Languages
-      <br>
-      #HTML, #CSS, #JS, #PHP, #Python
-      <br>
-      <br>
-      Favorite Python Packages
-      <br>
-      #PySimpleGUI, #PyAutoGUI, #Requests
-      <br>
-      <br>
-      Favorite IDE
-      <br>
-      #PyCharm, #Sublime3
+  
+  Hello there. I'm Portaltree.
+  <br> 
+  I'm a Future Web / Python Developer from Japan.
   <br>
   <br>
+  
+  Languages
+  <br>
+  #HTML, #CSS, #JS, #PHP, #Python
+  <br>
+  <br>
+  
+  Favorite Python Packages
+  <br>
+  #PySimpleGUI, #PyAutoGUI, #Requests
+  <br>
+  <br>
+  
+  Favorite IDE
+  <br>
+  #PyCharm, #Sublime3
+  <br>
+  <br>
+  
   <img src="Slime_Prince.gif"/>
   <img src="Honey_Bee.gif"/>
   <img src="Slime_Princess.gif"/>
+  
   <br>
 </p>
