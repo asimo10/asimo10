@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <br>
-  <samp>
+  <code>
       Hello there. I'm Portaltree.
       <br> 
       I'm a Future Web / Python Developer from Japan.
@@ -19,7 +19,7 @@
       Favorite IDE
       <br>
       #PyCharm, #Sublime3
-  </samp>
+  </code>
   <br>
   <br>
   <img src="Slime_Prince.gif"/>
