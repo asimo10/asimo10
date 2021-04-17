@@ -7,5 +7,7 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+  <img src="Slime_Prince.gif"/>
+  <img src="Honey_Bee.gif"/>
+  <img src="Slime_Princess.gif"/>
 </p>
