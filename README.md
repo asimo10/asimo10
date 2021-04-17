@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm Portaltree.<br> I'm a Web/Python Developer from Japan.<br><br>#html, #css, #js, #php, #python</samp>
+  <samp>Hello there. I'm Portaltree.<br> I'm a Web / Python Developer from Japan.<br><br>#html, #css, #js, #php, #python</samp>
   <br>
   <br>
   <br>
