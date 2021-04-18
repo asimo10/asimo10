@@ -7,17 +7,17 @@
     <br>
     Languages
     <br>
-    #HTML, #CSS, #JS, #PHP, #Python
+    HTML, CSS, JS, PHP, Python
     <br>
     <br>
     Favorite Python Packages
     <br>
-    #PySimpleGUI, #PyAutoGUI, #Requests
+    PySimpleGUI, PyAutoGUI, Requests
     <br>
     <br>
     Favorite IDE
     <br>
-    #PyCharm, #Sublime3
+    PyCharm, Sublime3
     <br>
     <br>
     <img src="Slime_Prince.gif"/>
