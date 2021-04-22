@@ -10,6 +10,9 @@
     HTML, CSS, JS, PHP, Python
     <br>
     <br>
+    Repositories that I'm proud of
+    <br>
+    Pyforce, php-Pr0xy, digitime
     Favorite IDE
     <br>
     PyCharm, Sublime3
