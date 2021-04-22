@@ -10,7 +10,7 @@
     HTML, CSS, JS, PHP, Python
     <br>
     <br>
-    Repositories that I'm proud of
+    Favorite Repos
     <br>
     Pyforce, php-Pr0xy, digitime
     <br>
