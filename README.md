@@ -2,12 +2,12 @@
     <br>
     Hello there. I'm Portaltree.
     <br> 
-    I'm a Future Web / Python Developer from Japan.
+    I'm a Future Web / Golang Developer from Japan.
     <br>
     <br>
     Languages
     <br>
-    HTML, CSS, JS, PHP, Python
+    HTML, CSS, JS, PHP, Python, C++, Go
     <br>
     <br>
     Favorite Repos
