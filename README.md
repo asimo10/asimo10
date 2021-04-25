@@ -10,7 +10,7 @@
     HTML, CSS, JS, PHP, Python, C++, Go
     <br>
     <br>
-    Favorite Text Editor
+    Text Editor
     <br>
     Sublime Text, Visual Studio Code
     <br>
