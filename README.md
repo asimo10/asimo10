@@ -10,14 +10,9 @@
     HTML, CSS, JS, PHP, Python, C++, Go
     <br>
     <br>
-    Favorite Repos
+    Favorite Text Editor
     <br>
-    Pyforce, php-Pr0xy, digitime
-    <br>
-    <br>
-    Favorite IDE
-    <br>
-    PyCharm, Sublime3
+    Sublime Text, Visual Studio Code
     <br>
     <br>
     <img src="Slime_Prince.gif"/>
