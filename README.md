@@ -3,7 +3,8 @@
     Hello there. I'm Tahir.
     <br> 
     I'm a Future Web/Python Developer from Japan.
-    [My Website](https://asimo10.github.io)
+    <br>
+    <a href="https://asimo10.github.io" target="_blank">My Website</a>
     <br>
     <br>
     Languages
