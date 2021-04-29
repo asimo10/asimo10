@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    Hello there. I'm Tahir.
+    Hello there, I'm Tahir.
     <br> 
     I'm a Future Web/Python Developer from Japan.
     <br>
