@@ -2,7 +2,8 @@
     <br>
     Hello there. I'm Tahir.
     <br> 
-    I'm a Future Web / Golang Developer from Japan.
+    I'm a Future Web/Python Developer from Japan.
+    (My Website)[https://asimo10.github.io/]
     <br>
     <br>
     Languages
