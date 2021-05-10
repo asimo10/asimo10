@@ -17,6 +17,7 @@
     Sublime Text, Visual Studio Code
     <br>
     <br>
+    <iframe id="reddit-embed" src="https://www.redditmedia.com/r/entitledparents/comments/n85goa/em_thinks_that_her_religion_dictates_my_lifestyle/gxgupwd/?depth=1&amp;showmore=false&amp;embed=true&amp;showmedia=false" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="195" width="640" scrolling="no"></iframe>
     <img src="Slime_Prince.gif"/>
     <img src="Honey_Bee.gif"/>
     <img src="Slime_Princess.gif"/>
